@@ -1,8 +1,9 @@
-# Jonathan
+# Jonathan Azevedo
 
-Developer at Uspectro — building mobile and web products.  
+Developer at Uspectro. Building web products.  
 Based in Ponta Grossa, Brazil.
 
+Responsible for the mobile app and full-stack development at Inbix.
 ---
 
 ## Stack
