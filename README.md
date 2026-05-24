@@ -1,126 +1,25 @@
-<div align="center">
+# Jonathan
 
-<br/>
-
-# Jonathan Barbosa
-
-### Fullstack Developer
-
-<br/>
-
-*"Think Different."*
-
-<br/>
-<br/>
-
-</div>
+Developer at Uspectro — building mobile and web products.  
+Based in Ponta Grossa, Brazil.
 
 ---
 
-<br/>
+## Stack
 
-<div align="center">
+**Mobile**
 
-## Tecnologias
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-<br/>
+**Web**
 
-**Frontend** · **Backend** · **Mobile**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<br/>
-<br/>
+**Backend & Infra**
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-<br/>
-
-![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![API](https://img.shields.io/badge/-REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-<br/>
-<br/>
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-## Projetos em Destaque
-
-<br/>
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 📱 ClimApp
-Aplicativo com Expo - Ferramentas essenciais para desenvolvimento mobile com React Native.
-
-**Stack:** TypeScript • React Native • Expo
-
-</td>
-<td width="50%">
-
-### 🌐 TypeScript API
-Consumo de API externa e manipulação de dados em aplicação web moderna.
-
-**Stack:** TypeScript • REST API • Node.js
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⏱️ Pomodoro App
-Timer Pomodoro minimalista para produtividade.
-
-**Stack:** JavaScript • React Native
-
-</td>
-<td width="50%">
-
-### 🗺️ Geolocalização Maps
-Implementação de geolocalização e mapas em React Native.
-
-**Stack:** TypeScript • React Native • Maps API
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Contato
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-barbosa-azevedo-b942a011b)
-<br/>
-
-📍 Ponta Grossa - PR, Brasil
-
-<br/>
-<br/>
-
-*"The only way to do great work is to love what you do."*
-
-<br/>
-
-</div>
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
