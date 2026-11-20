@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/florza-cinza.png" width="96" alt="Logo do Florza em escala de cinza">
-
-# Jonathan Barbosa Azevedo
+<img src="assets/intro.gif" width="880" alt="Jonathan Barbosa Azevedo, Engenheiro Full Stack, Mobile e IA. Animação com a logo do Florza em cinza, as frases Aplicativos nas lojas, Sistemas em produção e Agentes no negócio, e um exemplo de chamada MCP do Claude ao servidor e ao painel.">
 
 **Engenheiro Full Stack, Mobile e IA**
 Ponta Grossa, Paraná, Brasil
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-f5f5f7?style=flat-square&logoColor=1d1d1f)](https://jonathan-azevedo-dev.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-e8e8ed?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jonathan-barbosa-azevedo-b942a011b/)
+
+[Assistir em vídeo (MP4)](assets/intro.mp4)
 
 </div>
 
