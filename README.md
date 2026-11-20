@@ -17,14 +17,6 @@ Ponta Grossa, Paraná, Brasil
 
 Desenvolvo aplicativos mobile em React Native, sistemas full stack e agentes de IA. Tenho apps publicados na App Store e no Google Play e construí o servidor MCP que conecta o Claude ao painel interno da Inbix, com acesso somente leitura. Atuo na Inbix e na Uspectro.
 
-## Do commit ao Claude
-
-<p align="center">
-  <img src="assets/infra.svg" alt="Animação em escala de cinza: o código no GitHub passa pelo GitHub Actions, vira uma imagem Docker e sobe no Portainer, que roda um servidor MCP de dev e um de produção. O Claude usa um deles, e ele consulta o painel na Vercel, que usa o Supabase." width="100%">
-</p>
-
-O servidor MCP tem uma versão de desenvolvimento, para testes, e uma de produção. As duas sobem no Portainer a partir de imagens Docker, com a entrega automatizada pelo GitHub Actions. O sistema interno que o servidor consulta roda na Vercel.
-
 ## Stack
 
 **Mobile**
